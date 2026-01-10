@@ -1,0 +1,2 @@
+# SmartDNS
+规则
