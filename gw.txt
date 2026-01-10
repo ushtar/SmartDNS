@@ -1,10 +1,9 @@
 vultr.com
 test-ipv6.com
-ipw.cn
 
 ipcheck.im
 
-DOMAIN,speed.cloudflare.com
+speed.cloudflare.com
 fast.com
 # DOMAIN,ichnaea-web.netflix.com
 # 1.oca.nflxvideo.net
