@@ -1,6 +1,6 @@
 vultr.com
 test-ipv6.com
-
+claw.cloud
 ipcheck.im
 
 speed.cloudflare.com
