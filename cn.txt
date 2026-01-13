@@ -1,2 +1,1 @@
-*.0o00.de
-*.icbc-ltd.com
+*.hsbc.com.hk
