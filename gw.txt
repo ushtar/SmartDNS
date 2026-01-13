@@ -21,7 +21,7 @@ speed.cloudflare.com
 *.workers.dev
 *.jsonp-ip.com
 *.sspanel.net
-
+*.playwright.dev
 *.dnsleaktest.com
 *.browserscan.net
 *.surfshark.com
