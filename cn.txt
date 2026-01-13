@@ -1,1 +1,2 @@
 *.0o00.de
+*.icbc-ltd.com
