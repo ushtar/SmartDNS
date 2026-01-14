@@ -32,7 +32,7 @@ speed.cloudflare.com
 *.ip-score.com
 *.888005.xyz
 *.incolumitas.com
-
+*.itubego.com
 *.null-addr.com
 *.null-addr.net
 *.null-addr.org
