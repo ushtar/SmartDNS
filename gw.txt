@@ -27,7 +27,7 @@ speed.cloudflare.com
 *.surfshark.com
 *.surfsharkdns.com
 *.ip-api.com
-
+*.lazycats.online
 *.ipleak.net
 *.ip-score.com
 *.888005.xyz
