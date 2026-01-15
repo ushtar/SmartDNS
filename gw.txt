@@ -43,7 +43,7 @@ speed.cloudflare.com
 *.ifconfig.me
 *.ip125.com
 *.skk.moe
-*.ip111.cn
+ip111.cn
 *.vultr.com
 *.ping0.cc
 *.incolumitas.com
