@@ -1,1 +1,1 @@
-*.hsbc.com.hk
+hsbc.com.hk
