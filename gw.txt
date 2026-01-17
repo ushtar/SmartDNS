@@ -47,3 +47,4 @@ ip111.cn
 vultr.com
 ping0.cc
 incolumitas.com
+3gppnetwork.org
