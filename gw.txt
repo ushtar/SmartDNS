@@ -7,9 +7,7 @@ speed.cloudflare.com
 fast.com
 # DOMAIN,ichnaea-web.netflix.com
 # 1.oca.nflxvideo.net
-speedcheck.org
 acck.io
-speedtest.cn
 ustc.edu.cn
 dnscheck.tools
 whoer.net
@@ -50,3 +48,4 @@ incolumitas.com
 3gppnetwork.org
 nxtrace.org
 doubleclick.net
+about.google
